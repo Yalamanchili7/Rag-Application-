@@ -1,21 +1,21 @@
-Climate Change RAG Model
+## Change RAG Model
 This project implements a simple Retrieval-Augmented Generation (RAG) model focused on climate change information. It uses a small, curated dataset about climate change and leverages the power of transformer models for both retrieval and generation tasks.
 Features
 
-Custom climate change dataset
+## Custom climate change dataset
 Sentence embedding-based retrieval system
 T5-based text generation
 Simple question-answering interface
 
-Installation
+## Installation
 
 
 
-Install the required packages:
+## Install the required packages:
 Copypip install -r requirements.txt
 
 
-Usage
+## Usage
 Run the main script:
 Copypython rag_model.py
 This will prompt you to enter a question about climate change, and the model will provide an answer based on the information in its knowledge base.

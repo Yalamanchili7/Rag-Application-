@@ -9,9 +9,7 @@ Simple question-answering interface
 
 Installation
 
-Clone this repository:
-Copygit clone https://github.com/your-username/climate-change-rag.git
-cd climate-change-rag
+
 
 Install the required packages:
 Copypip install -r requirements.txt

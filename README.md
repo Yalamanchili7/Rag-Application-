@@ -1,4 +1,4 @@
-## Change RAG Model
+## RAG Model
 This project implements a simple Retrieval-Augmented Generation (RAG) model focused on climate change information. It uses a small, curated dataset about climate change and leverages the power of transformer models for both retrieval and generation tasks.
 Features
 
